@@ -22,7 +22,7 @@ Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in
 
 ## 
 
-💼 Currently working at [**ET Tech Limited**](https://github.com/etlimited)
+💼 Currently working at [**ET Tech Limited**](https://github.com/ettechlimited)
 
 
 🧠 Currently learning [**RDBMS**](https://www.google.com/search?q=rdbms&ie=UTF-8)
