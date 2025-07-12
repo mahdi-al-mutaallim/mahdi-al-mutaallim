@@ -14,7 +14,7 @@ Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in
 
 
 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/thecodermehedi/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/thecodermehedi) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/thecodermehedi) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:iammehedihasan@protonmail.com)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/mahdi-al-mutaallim/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/mahdi-al-mutaallim) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/mahdi-al-mutaallim) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:iammehedihasan@protonmail.com)
  
 
 </div>
@@ -25,19 +25,19 @@ Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in
 💼 Currently working at [**ET Tech Limited**](https://github.com/etlimited)
 
 
-🧠 Currently learning [**Typescript**](https://www.typescriptlang.org/)
+🧠 Currently learning [**RDBMS**](https://www.google.com/search?q=rdbms&ie=UTF-8)
 
 <!-- [**NextJs**](https://nextjs.org), [**Redux**](https://redux.js.org/) -->
 
-🔭 Currently exploring [**shadcn/ui**](https://github.com/shadcn-ui/ui).
+🔭 Currently exploring [**prisma**](https://prisma.io).
 
-🌐 Portfolio: [**thecodermehedi**](https://thecodermehedi.me)
+🌐 Portfolio: [**mehedi.engineer**](https://mehedi.engineer)
 
 <!-- 🧐 Currently looking to collaborate on open source projects. -->
 
 <!-- 🤔 Currently trying to improve my portfolio. -->
 
-<!-- ✍️ Enjoy writing blogs on [**Dev.to**](https://dev.to/thecodermehedi) -->
+<!-- ✍️ Enjoy writing blogs on [**Dev.to**](https://dev.to/mahdi-al-mutaallim) -->
 
 📫 Mail me: [**iammehedihasan@protonmail.com**](mailto:iammehedihasan@protonmail.com)
 
@@ -45,7 +45,7 @@ Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in
 
 <!--⚡ Fun fact: My code **DOESN’T** work, I have no idea why. My code **WORKS**, I have no idea why. -->
 
-<!-- 🌐 Website: [thecodermehedi.com](https://thecodermehedi.me) -->
+<!-- 🌐 Website: [mahdi-al-mutaallim.com](https://mahdi-al-mutaallim.me) -->
 
 
 ## 💪 Skills
@@ -120,15 +120,15 @@ Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in
 
 ## 🌐 Stats
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecodermehedi&theme=github_dark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdi-al-mutaallim&theme=github_dark) -->
 
 
-<!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=thecodermehedi) -->
+<!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=mahdi-al-mutaallim) -->
 
 
-  <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
+  <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mahdi-al-mutaallim&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
 
-<!--  <img style="height: 200; width: 49%;" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" > -->
+<!--  <img style="height: 200; width: 49%;" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-al-mutaallim&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" > -->
 
 
 <!--START_SECTION:waka-->
@@ -137,24 +137,24 @@ Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in
 
 ## 🔥 Streak
 
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
+<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=mahdi-al-mutaallim&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
 
 <!-- <details>
 <summary> <h2>🔥 Streak</h2> </summary>
 
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=3B82F6&sideLabels=2563EB&currStreakNum=3B82F6&ring=3B82F6&currStreakLabel=2563EB&sideNums=3B82F6" />
+<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=mahdi-al-mutaallim&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=3B82F6&sideLabels=2563EB&currStreakNum=3B82F6&ring=3B82F6&currStreakLabel=2563EB&sideNums=3B82F6" />
 
 </details> -->
 
 ##
-![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/mahdi-al-mutaallim/mahdi-al-mutaallim/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thecodermehedi&color=2563EB&style=for-the-badge&label=👁️👁️"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-al-mutaallim&color=2563EB&style=for-the-badge&label=👁️👁️"> </p>
 
 
 <!-- <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/thecodermehedi/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mahdi-al-mutaallim/count.svg)
 
 </div> -->
